@@ -28,7 +28,7 @@ colorama==0.4.3
 colorlog==4.1.0
 configparser==5.0.1
 contextvars==2.4
-cryptography==3.0
+cryptography==3.2
 cycler==0.10.0
 dacite==1.6.0
 daft==0.1.0
