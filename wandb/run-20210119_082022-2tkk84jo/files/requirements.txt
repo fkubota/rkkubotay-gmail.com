@@ -129,7 +129,7 @@ pycodestyle==2.6.0
 pycparser==2.20
 pydub==0.23.0
 pyflakes==2.2.0
-pygments==2.6.1
+pygments==2.7.4
 pymc3==3.9.2
 pynput==1.7.2
 pyparsing==2.2.2
